@@ -1,0 +1,11 @@
+.carousel-inner img{
+    width:100%;
+}
+
+.carousel-item img{
+    position:absolute;
+    object-fit: cover;
+    top:0;
+    left:0;
+    min-height: 500;
+}
